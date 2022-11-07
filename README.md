@@ -6,3 +6,10 @@ flutter pub add firebase_auth
 
 +44 7123 123 456 is test number, code is 000000
 
+capabilities:
+push notification
+background mode
+ - background fetch
+ - remote notifications
+
+URL scheme added 
