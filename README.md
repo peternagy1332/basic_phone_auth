@@ -13,3 +13,7 @@ background mode
  - remote notifications
 
 URL scheme added 
+
+IOS https://firebase.google.com/docs/auth/flutter/phone-auth#setup
+
+APNs Authentication Key generated, added to Firebase IOS app
